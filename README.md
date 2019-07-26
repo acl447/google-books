@@ -1,4 +1,5 @@
 # Google-Book-Search
+
 Use this fun, helpful app to search the Google Play books library (https://play.google.com/store/books) and save book listings to your own list. Simply enter the title of a book in the search bar and click "Search". Click "View" underneath the book image to view the book listing on Google Play. Click "Save" to save the book listing to your "Saved" list. Click "Saved" in the navigation bar to view your list of saved books.
 
 When cloning this app, be sure to run "npm i" to install all required npm packages.
