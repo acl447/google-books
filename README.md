@@ -4,7 +4,7 @@ Use this fun, helpful app to search the Google Play books library (https://play.
 
 When cloning this app, be sure to run "npm i" to install all required npm packages.
 
-Link to app deployed to Heroku: ""
+Link to app deployed to Heroku: "https://guarded-bayou-21582.herokuapp.com/"
 
 Technologies used to make this app are the Google Books API, MongoDB, Mongoose, Node, Express, Nodemon, Axios, If-Env, Path, React, React-Router-DOM, JavaScript, Bootstrap and CSS. 
 
